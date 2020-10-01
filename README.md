@@ -1,1 +1,1 @@
-# ImageGrid
+# imagegrid
